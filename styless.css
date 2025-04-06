@@ -23,13 +23,13 @@ body {
     display: flex;
     gap: 33px;
 	font-size: 15px;
-	list-style: none;
+	list-style: none !important;
 }
 
 .navbar-link {
     color: #FFFCF5;
     transition: color 0.3s;
-	text-decoration: none; !important;
+	text-decoration: none !important;
 }
 
 .navbar-link:hover {
