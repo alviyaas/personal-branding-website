@@ -29,7 +29,7 @@ body {
 .navbar-link {
     color: #FFFCF5;
     transition: color 0.3s;
-	text-decoration: none;
+	text-decoration: none; !important;
 }
 
 .navbar-link:hover {
